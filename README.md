@@ -2,4 +2,4 @@
 
 ### 2048 Game Time
 
-1.can be used in mobile phone
+* can be used in mobile phone
